@@ -1,0 +1,15 @@
+E:\淘宝\c#\cs\图片处理\图片处理\bin\Debug\图片处理.exe
+E:\淘宝\c#\cs\图片处理\图片处理\bin\Debug\图片处理.pdb
+E:\淘宝\c#\cs\图片处理\图片处理\obj\x86\Debug\图片处理.Main.resources
+E:\淘宝\c#\cs\图片处理\图片处理\obj\x86\Debug\图片处理.Properties.Resources.resources
+E:\淘宝\c#\cs\图片处理\图片处理\obj\x86\Debug\图片处理.csproj.GenerateResource.Cache
+E:\淘宝\c#\cs\图片处理\图片处理\obj\x86\Debug\图片处理.exe
+E:\淘宝\c#\cs\图片处理\图片处理\obj\x86\Debug\图片处理.pdb
+E:\taobao\c#\cs\图片处理\图片处理\obj\x86\Debug\图片处理.exe
+E:\taobao\c#\cs\图片处理\图片处理\obj\x86\Debug\图片处理.pdb
+E:\taobao\c#\cs\图片处理\图片处理\obj\x86\Debug\图片处理.csprojResolveAssemblyReference.cache
+E:\taobao\c#\cs\图片处理\图片处理\obj\x86\Debug\图片处理.Main.resources
+E:\taobao\c#\cs\图片处理\图片处理\obj\x86\Debug\图片处理.Properties.Resources.resources
+E:\taobao\c#\cs\图片处理\图片处理\obj\x86\Debug\图片处理.csproj.GenerateResource.Cache
+E:\taobao\c#\cs\图片处理\图片处理\bin\Debug\图片处理.exe
+E:\taobao\c#\cs\图片处理\图片处理\bin\Debug\图片处理.pdb
